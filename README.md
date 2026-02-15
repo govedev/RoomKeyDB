@@ -31,4 +31,4 @@ Durante el desarrollo se gestionaron diversos desafíos técnicos:
 
 ---
 **Autor:** José María Gómez Vélez
-**Curso:** Gestión de Bases de Datos
+**Curso:** 1º DAW, Base de Datos
